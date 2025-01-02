@@ -75,8 +75,8 @@ header {
 }
 
 .avatar {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid var(--primary-color);
@@ -84,12 +84,12 @@ header {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 25px;
   margin-bottom: 0.5rem;
 }
 
 .bio {
-  font-size: 14px;
+  font-size: 15px;
   color: var(--bio-color);
   margin-bottom: 1rem;
 }
@@ -134,7 +134,7 @@ footer {
   width: 100%;
   text-align: center;
   padding: 1rem 0;
-  font-size: 14px;
+  font-size: 15px;
   gap: 1rem;
   display: flex;
   justify-content: center;
