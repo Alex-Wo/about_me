@@ -75,8 +75,8 @@ header {
 }
 
 .avatar {
-  width: 120px;
-  height: 120px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid var(--primary-color);
@@ -89,7 +89,7 @@ h1 {
 }
 
 .bio {
-  font-size: 15px;
+  font-size: 17px;
   color: var(--bio-color);
   margin-bottom: 1rem;
 }

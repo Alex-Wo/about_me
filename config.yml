@@ -1,11 +1,12 @@
-name: "Александр Е."
+name: "Александр Егунов"
 picture: "assets/img/picture.jpg"
-bio: "Python Back End Developer"
+bio: "Back End Web Developer"
+stack: "Python / Django / PostgresSQL / linux"
 meta:
   lang: "en"
-  description: "Python Back End Developer"
-  title: "Александр Е."
-  author: "Александр Е."
+  description: "Back End Web Developer"
+  title: "Александр Егунов"
+  author: "Александр Егунов"
   siteUrl: "https://Alex-Wo.github.io"
 links:
   - name: "Github"

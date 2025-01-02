@@ -20,7 +20,7 @@
     <header>
         <img src="{{ config.picture }}" alt="Picture" class="avatar">
         <h1>{{ config.name }}</h1>
-        <small class="bio">{{ config.bio }}</small>
+        <small class="bio">{{ config.bio }} <br> {{ config.stack }}</small>
     </header>
     <main>
         <section class="links">
@@ -32,7 +32,7 @@
         </section>
     </main>
     <footer>
-        <small><span class="year"></span> {{ config.meta.author }}</small>
+        <small><span class="year"></span> / {{ config.meta.author }}</small>
     </footer>
     <script src="assets/js/script.js"></script>
 </body>
