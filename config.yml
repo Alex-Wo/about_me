@@ -1,7 +1,7 @@
 name: "Александр Егунов"
 picture: "assets/img/picture.jpg"
-bio: "Python Web Developer"
-stack: "Python / Django / PostgreSQL / Linux / Git"
+bio: "Back End Web Developer"
+stack: "Python • Django • PostgreSQL • Linux • Git"
 meta:
   lang: "en"
   description: "Back End Web Developer"
