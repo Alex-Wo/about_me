@@ -17,4 +17,5 @@ links:
     url: "https://github.com/Alex-Wo"
   - name: "Хабр Карьера"
     url: "https://career.habr.com/egunov_it"
-theme: "custom"
+#theme: "custom"
+remote_theme: pages-themes/cayman@v0.2.0
