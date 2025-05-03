@@ -21,7 +21,7 @@ with open(os.path.join(output_dir, 'index.html'), 'w') as fh:
     fh.write(output_html)
 
 # Copy assets folder to output directory
-assets_source = os.path.join('themes', config['remote_theme'], 'assets')
+assets_source = os.path.join('themes', config['theme'], 'assets')
 assets_dest = os.path.join(output_dir, 'assets')
 if os.path.exists(assets_source):
     shutil.copytree(assets_source, assets_dest, dirs_exist_ok=True)
